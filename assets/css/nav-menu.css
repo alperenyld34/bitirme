@@ -1,0 +1,171 @@
+.third-level-menu
+{
+    position: absolute;
+    top: -2px !important;
+    left: 220px;
+    width: 220px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 40px;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #FFF;box-shadow: 0px 5px 14.25px 0.75px rgba(0, 0, 0, 0.05);
+    z-index: 9;
+    transition: 0.1s ease-in-out 0s;
+}
+
+.third-level-menu > li
+{
+    height: auto;
+
+}
+.third-level-menu > li:hover { background: #F8F8F8; }
+.third-level-menu > li p{padding: 10px 8px 10px 8px; margin: 0px; font-family: 'Open Sans',sans-serif; font-size:13px; color:#333; text-shadow: 1px 1px 0px #FFF;}
+
+
+.second-level-menu
+{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    width: 220px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #FFF;
+    box-shadow: 0px 5px 14.25px 0.75px rgba(0, 0, 0, 0.05);
+    z-index: 999;
+    transition: 0.2s ease-in-out 0s;
+
+
+
+}
+
+.second-level-menu > li
+{
+    position: relative;
+    height: auto;
+
+}
+.second-level-menu i {float:right; margin-top:3px; font-size:16px; margin-right: 5px;}
+.second-level-menu > li:hover { background: #F8F8F8;  }
+
+.second-level-menu > li p{padding: 10px 8px 10px 15px; margin: 0px; 'Open Sans',sans-serif; font-size:13px; color:#000; text-shadow: 1px 1px 0px #FFF;}
+
+.second-level-menu:after {
+    bottom: 100%;
+    left: 5%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+
+    position: absolute;
+    pointer-events: none;
+    border-width: 8px;
+
+}
+.second-level-menu:before {
+    box-sizing: border-box;
+}
+
+.top-level-menu
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+.top-level-menu > li
+{
+    position: relative;
+    float: left;
+    height: 35px;
+    width: auto;
+    margin-right:10px; padding:4px 10px 0px 10px; transition-duration: 0.1s; transition-timing-function: linear;
+
+
+}
+.top-level-menu > li:hover {
+
+    border-radius: 0px;
+
+}
+
+.top-level-menu li:hover > ul
+{
+    /* On hover, display the next level's menu */
+    opacity: 1;  visibility: visible; top:55px; margin-top: 0!important;
+
+}
+
+
+/* Menu Link Styles */
+
+.top-level-menu > li span /* Apply to all links inside the multi-level menu */
+{
+    font-family: 'Open Sans',sans-serif;
+
+    text-decoration: none;
+    height: 60px;
+    text-transform: uppercase;
+
+
+    /* Make the link cover the entire list item-container */
+    display: block;
+    line-height: 26px;
+}
+.top-level-menu > li:hover span{
+
+    color:#FFF;
+
+}
+.top-level-menu > li a{}
+.top-level-menu > li:hover a{text-decoration: none;}
+/* MEGA MENU FOR PRODUCTS */
+
+.mega-level-menu
+{
+    position: absolute;
+    top: 100px;
+    left: -425px;
+    width: 950px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #FFF;
+    box-shadow: 0px 5px 14.25px 0.75px rgba(0, 0, 0, 0.05);
+
+    z-index: 99; height: 402px;
+    transition: 0.2s ease-in-out 0s;
+
+
+}
+
+
+
+.mega-level-menu:after {
+    bottom: 100%;
+    left:48%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+
+    position: absolute;
+    pointer-events: none;
+
+    border-width: 8px;
+
+}
+.mega-level-menu:before {
+    box-sizing: border-box;
+}
+

@@ -1,0 +1,1 @@
+[14-Sep-2022 05:55:58 Europe/Istanbul] PHP Warning:  unlink(../../../../assets/images/users/): Is a directory in /home/kurumsals/public_html/yonetimx/support/post/delete/yonetici-sil.php on line 23

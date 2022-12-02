@@ -1,0 +1,14 @@
+[13-Sep-2022 20:27:27 Europe/Istanbul] PHP Warning:  unlink(../../../../images/slider/5435401904396-801-1291915266-917-sadsadsad.jpg): No such file or directory in /home/kurumsals/public_html/yonetim/support/post/update/slider-duzenle.php on line 79
+[14-Sep-2022 00:30:01 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 00:31:49 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 00:35:10 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 00:39:15 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 00:39:28 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 00:41:55 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetim/support/post/update/favicon.php on line 49
+[14-Sep-2022 04:30:42 Europe/Istanbul] PHP Warning:  unlink(../../../../images/): Is a directory in /home/kurumsals/public_html/yonetimx/support/post/update/favicon.php on line 49
+[14-Sep-2022 04:52:50 Europe/Istanbul] PHP Warning:  unlink(../../../../images/bakim/5420466684736-313-4770095390267-175-531908405-381-1106271480-11-logoasd.png): No such file or directory in /home/kurumsals/public_html/yonetimx/support/post/update/bakim-logo.php on line 49
+[14-Sep-2022 05:53:02 Europe/Istanbul] PHP Warning:  unlink(../../../../assets/images/users/): Is a directory in /home/kurumsals/public_html/yonetimx/support/post/update/yoneticiler.php on line 56
+[14-Sep-2022 11:28:47 Europe/Istanbul] PHP Warning:  unlink(../../../../images/uploads/1275688505-386-teams.jpg): No such file or directory in /home/kurumsals/public_html/yonetimx/support/post/update/page-headers-image.php on line 49
+[17-Sep-2022 18:45:43 Europe/Istanbul] PHP Warning:  unlink(../../../../images/belge/4413097696378-68-249747524-154-3.jpg): No such file or directory in /home/kurumsals/public_html/admin/support/post/update/belge-duzenle.php on line 55
+[17-Sep-2022 18:46:04 Europe/Istanbul] PHP Warning:  unlink(../../../../images/belge/1421444625593-863-249747524-154-3.jpg): No such file or directory in /home/kurumsals/public_html/admin/support/post/update/belge-duzenle.php on line 55
+[17-Sep-2022 18:46:27 Europe/Istanbul] PHP Warning:  unlink(../../../../images/belge/6493510087020-61-249747524-154-3.jpg): No such file or directory in /home/kurumsals/public_html/admin/support/post/update/belge-duzenle.php on line 55

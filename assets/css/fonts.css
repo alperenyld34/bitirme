@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'fontello';
+    src: url('../../assets/css/fontello/fontello.eot?16408216');
+    src: url('../../assets/css/fontello/fontello.eot?16408216#iefix') format('embedded-opentype'),
+    url('../../assets/css/fontello/fontello.woff?16408216') format('woff'),
+    url('../../assets/css/fontello/fontello.ttf?16408216') format('truetype'),
+    url('../../assets/css/fontello/fontello.svg?16408216#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.shopping-cart {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em; font-size:24px;
+
+    text-align: center;
+    /* opacity: .8; */
+
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+
+    /* fix buttons height, for twitter bootstrap */
+    line-height: 1em;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+.font-spacing{letter-spacing: 0.04em}
+.font-12{font-size:12px;}
+.font-13{font-size:13px;}
+.font-14{font-size:14px;}
+.font-15{font-size:15px;}
+.font-16{font-size:16px;}
+.font-17{font-size:17px;}
+.font-18{font-size:18px;}
+.font-19{font-size:19px;}
+.font-20{font-size:20px;}
+.font-24{font-size:24px;}
+.font-26{font-size:26px;}
+.font-27{font-size:27px;}
+.font-28{font-size:28px;}
+.font-29{font-size:29px;}
+.font-30{font-size:30px;}
+.font-size-big{font-size:36px;}
+.font-size-exbig{font-size:50px;}
+.font-exlight{font-weight: 300; }
+.font-light{font-weight: 400; }
+.font-small{font-weight: 500; }
+.font-medium{font-weight: 600}
+.font-bold{font-weight: 700}
+.font-exbold{font-weight: 800}
+.font-raleway{ font-family: 'Raleway', sans-serif}
+.font-open-sans{font-family: 'Open Sans', sans-serif}
+.font-color-FFF{color:#FFF}
+.font-color-000{color:#000;}
+.p-p{padding: 0px; margin: 0px; overflow: hidden;}
